@@ -1,0 +1,24 @@
+# Variables de entorno
+backend/.env
+
+# Entorno virtual Python
+backend/venv/
+
+# Cache Python
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+frontend/node_modules/
+
+# Build de produccion
+frontend/dist/
+
+# Archivos de sistema Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
