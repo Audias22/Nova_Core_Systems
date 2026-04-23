@@ -140,7 +140,7 @@ const Login = () => {
           </form>
 
           <p className="text-center text-blue-900 text-xs mt-6">
-            Sistema interno — acceso restringido
+            CON AMOR PARA ING. PAYES
           </p>
         </div>
       </div>
